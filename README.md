@@ -17,7 +17,7 @@ Cysteamine hydrochloride was used to functionalize AgNPs to enhance interaction 
 - Characterization using UV-Vis spectroscopy, Dynamic Light Scattering (DLS), and SEM
 - Application testing on fresh, pre-spoiled, and spoiled milk samples
 - Analysis of limitations and sensitivity challenges
-![SEM of Ag Nanoparticles](images/sem-ag-nanoparticles)
+![SEM of Ag Nanoparticles](images/sem-ag-nanoparticles.png)
 
 ## Repository contents
 - `docs/`: technical project summary and methodology
