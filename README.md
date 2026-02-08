@@ -9,7 +9,7 @@ The project focused on the synthesis, functionalization, and characterization of
 for potential application in milk spoilage detection using a colorimetric sensing approach.
 
 Cysteamine hydrochloride was used to functionalize AgNPs to enhance interaction with spoilage markers such as lactic acid.
-![UV-VIS SPR of Ag Nanoparticles](images/uvvis-spr-ag-nanoparticles.png)
+![UV-VIS SPR of Ag Nanoparticles](images/uvvis-spr-ag-nanoparticles)
 
 ## Key work performed
 - Chemical synthesis of silver nanoparticles using sodium borohydride and tri-sodium citrate
